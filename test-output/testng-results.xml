@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-15T17:27:09 CET" name="Default suite" finished-at="2022-12-15T17:27:28 CET" duration-ms="18865">
+    <groups>
+    </groups>
+    <test started-at="2022-12-15T17:27:09 CET" name="Default test" finished-at="2022-12-15T17:27:28 CET" duration-ms="18865">
+      <class name="todos.AutomatedTestCasesForToDoApplication">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:todos.AutomatedTestCasesForToDoApplication@6aeb35e6]" started-at="2022-12-15T17:27:09 CET" name="setUp" finished-at="2022-12-15T17:27:22 CET" duration-ms="12743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC001_taskCreation()[pri:1, instance:todos.AutomatedTestCasesForToDoApplication@6aeb35e6]" started-at="2022-12-15T17:27:22 CET" name="TC001_taskCreation" finished-at="2022-12-15T17:27:25 CET" duration-ms="2372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001_taskCreation -->
+        <test-method signature="TC010_toCancelEscKeyboard()[pri:2, instance:todos.AutomatedTestCasesForToDoApplication@6aeb35e6]" started-at="2022-12-15T17:27:25 CET" name="TC010_toCancelEscKeyboard" finished-at="2022-12-15T17:27:27 CET" duration-ms="2196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC010_toCancelEscKeyboard -->
+        <test-method signature="TC013_DuplicatesNamesAllowed()[pri:3, instance:todos.AutomatedTestCasesForToDoApplication@6aeb35e6]" started-at="2022-12-15T17:27:27 CET" name="TC013_DuplicatesNamesAllowed" finished-at="2022-12-15T17:27:27 CET" duration-ms="401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC013_DuplicatesNamesAllowed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:todos.AutomatedTestCasesForToDoApplication@6aeb35e6]" started-at="2022-12-15T17:27:27 CET" name="tearDown" finished-at="2022-12-15T17:27:28 CET" duration-ms="1075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- todos.AutomatedTestCasesForToDoApplication -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
